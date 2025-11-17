@@ -40,9 +40,9 @@ Aquest és el moment de demostrar que estem preparats per fer el salt: **de jún
 
 ### Tasques
 
-[Tasca01](/Projecte4/Tasca01)
-[Tasca02](/Projecte4/Tasca02)
-[Tasca03](/Projecte4/Tasca03)
-[Tasca04](/Projecte4/Tasca04)
-[Tasca05](/Projecte4/Tasca05)
-[Tasca06](/Projecte4/Tasca06)
+- [Tasca01](/Projecte4/Tasca01)
+- [Tasca02](/Projecte4/Tasca02)
+- [Tasca03](/Projecte4/Tasca03)
+- [Tasca04](/Projecte4/Tasca04)
+- [Tasca05](/Projecte4/Tasca05)
+- [Tasca06](/Projecte4/Tasca06)
