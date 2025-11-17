@@ -35,3 +35,14 @@ Aquest és el moment de demostrar que estem preparats per fer el salt: **de jún
 ### Enllaç al planner
 
 [Aquí](https://planner.cloud.microsoft/webui/v1/plan/Hzfgj3dzlU2VkerScWUW0ZYABmgh?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
+
+---
+
+### Tasques
+
+[Tasca01](/Projecte4/Tasca01)
+[Tasca02](/Projecte4/Tasca02)
+[Tasca03](/Projecte4/Tasca03)
+[Tasca04](/Projecte4/Tasca04)
+[Tasca05](/Projecte4/Tasca05)
+[Tasca06](/Projecte4/Tasca06)
