@@ -29,3 +29,9 @@ El projecte culmina amb una **carpeta professional** que inclou:
 ---
 
 Aquest és el moment de demostrar que estem preparats per fer el salt: **de júnior a professional IT**.
+
+---
+
+### Enllaç al planner
+
+[Aquí](https://planner.cloud.microsoft/webui/v1/plan/Hzfgj3dzlU2VkerScWUW0ZYABmgh?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
