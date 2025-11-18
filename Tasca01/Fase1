@@ -1,1 +1,6 @@
+# Copies de seguretat
+
+## Introducció
+
+La seguretat de la informació és un aspecte fonamental per a qualsevol empresa, especialment quan es tracta de dades crítiques que afecten l’operativa diària. Les còpies de seguretat són una mesura essencial per prevenir la pèrdua de dades i garantir la continuïtat del negoci davant possibles incidències com errors humans, fallades tècniques o ciberatacs. En aquesta tasca, analitzarem el cas pràctic de l’empresa “Muntatges i Serveis Tècnics SL” per definir quines dades s’han de protegir, amb quina periodicitat i mitjançant quins mitjans, tenint en compte els requisits de recuperació establerts. L’objectiu és dissenyar un pla de còpies que asseguri la disponibilitat i integritat de la informació, complint amb la regla 3-2-1 i adaptant-se a les necessitats reals de l’organització.
 
