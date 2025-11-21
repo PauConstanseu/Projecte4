@@ -1,7 +1,7 @@
-# **DRP: còpies de seguretat (Parelles)**  
+**DRP: còpies de seguretat (Parelles)**  
 ---
 
-## **Introducció a la tasca:**
+# **Introducció a la tasca:**
 
 En aquesta tasca analitzarem la importància de mantenir còpies de seguretat de les dades crítiques d’una empresa seguint l’esquema 3-2-1. Aquest mètode és essencial per protegir la informació davant possibles pèrdues, errors humans o desastres naturals. A través de la seva aplicació, es garanteix que les dades més rellevants de l’organització es mantinguin disponibles, segures i recuperables en tot moment, minimitzant l’impacte que podria tenir una pèrdua d’informació en la continuïtat del negoci.
 
