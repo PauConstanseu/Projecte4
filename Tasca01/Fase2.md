@@ -7,9 +7,9 @@ En aquesta tasca analitzarem la importància de mantenir còpies de seguretat de
 
 ---
 
-![][image1]
+![Captura1](/Tasca01/img/imatge1.jpg)
 
-3. # **Esquema 3-2-1 de Còpies** {#esquema-3-2-1-de-còpies}
+# **Esquema 3-2-1 de Còpies**
 
 | Element | Proposta de la Parella | Justificació |
 | :---- | :---- | :---- |
@@ -20,7 +20,7 @@ En aquesta tasca analitzarem la importància de mantenir còpies de seguretat de
 | **Mitjà 2 (Extern)** | Núvol o centre de dades remot | Protegeix davant de desastres locals ( robatori, inundacions) i garanteix continuïtat del servei. |
 | **1 Fora de Lloc** | Còpia en cinta o disc dur desconnectat guardat fora de les instal·lacions | Assegura recuperació encara que falli la infraestructura local i externa. |
 
-4. # **Explicació del 3-2-1** {#explicació-del-3-2-1}
+# **Explicació del 3-2-1**
 
      
 * **3 còpies de les dades:** 1 còpia principal \+ 2 còpies de seguretat.  
@@ -29,6 +29,6 @@ En aquesta tasca analitzarem la importància de mantenir còpies de seguretat de
 
 ---
 
-5. # **Conclusió:** {#conclusió:}
+# **Conclusió:**
 
 Finalment, hem pogut veure que l’esquema 3-2-1 és una estratègia eficaç i pràctica per assegurar la protecció de les dades crítiques de qualsevol empresa. Disposar de tres còpies de les dades, utilitzar almenys dos tipus de mitjans i mantenir una còpia fora de lloc permet reduir significativament els riscos associats a la pèrdua d’informació.
