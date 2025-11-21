@@ -7,20 +7,6 @@ En aquesta tasca analitzarem la importància de mantenir còpies de seguretat de
 
 ---
 
-# **Índex:**
-
-[**1\. Introducció a la tasca:	1**](#introducció-a-la-tasca:)
-
-[**2\. Índex:	1**](#índex:)
-
-[**3\. Esquema 3-2-1 de Còpies	2**](#esquema-3-2-1-de-còpies)
-
-[**4\. Explicació del 3-2-1	2**](#explicació-del-3-2-1)
-
-[**5\. Conclusió:	2**](#conclusió:)
-
----
-
 ![][image1]
 
 3. # **Esquema 3-2-1 de Còpies** {#esquema-3-2-1-de-còpies}
