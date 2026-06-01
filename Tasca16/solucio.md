@@ -1,0 +1,2 @@
+- [PDF](https://drive.google.com/file/d/19XCKspAWWcCJE4YQbMQN5qZ_GdeW843Q/view)
+- [Video](https://drive.google.com/file/d/16GW6t8i0fDcHNUI-VFQxGM0kWfEZ8V7M/view)
